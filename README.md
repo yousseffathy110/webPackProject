@@ -1,1 +1,1 @@
-## make using TypeScript and webpack
+## made using TypeScript and webpack
